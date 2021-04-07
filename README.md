@@ -1,6 +1,7 @@
 # **Skeleton NodeJs**
 
-O Skeleton NodeJs é basicamente um esqueleto de um ambiente para desenvolvimento de um projeto em NodeJs. O projeto já vem basicamente com ambiente em Docker, configurações de eslint, já configurado para testes unitários com Jest, configurado husky para padrões de commit, configurado com Travis para utilização de integração contínua. Os arquivos de configurações do Jest estão configurados para uma estrutura de Clean Architecture, caso não seja essa a sua arquitetura os arquivos deverão ser alterados.
+O Skeleton NodeJs é basicamente um esqueleto de um ambiente para desenvolvimento de um projeto em NodeJs.
+</br>O projeto já vem basicamente com ambiente em Docker, configurações de eslint, já configurado para testes unitários com Jest, configurado husky para padrões de commit, configurado com Travis para utilização de integração contínua. Os arquivos de configurações do Jest estão configurados para uma estrutura de Clean Architecture, caso não seja essa a sua arquitetura os arquivos deverão ser alterados.
 
 ## **Ferramentas utilizadas**
 
